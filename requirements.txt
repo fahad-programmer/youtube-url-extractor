@@ -1,0 +1,2 @@
+youtube-dl==2021.12.17
+yt-dlp @ https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz#sha256=f1e13a996bc86c920de119dc89d7dced17436e61ce9a6a2033a30e94d529648b
