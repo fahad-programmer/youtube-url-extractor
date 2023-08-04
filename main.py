@@ -27,6 +27,6 @@ def process_urls(input_file, output_file, num_threads):
 if __name__ == "__main__":
     input_file = 'input.txt'  # Replace with the path to your input file
     output_file = 'output.txt'  # Replace with the path to your output file
-    num_threads = 15  # Replace with the number of threads you want to use
+    num_threads = 50  # Replace with the number of threads you want to use
 
     process_urls(input_file, output_file, num_threads)
